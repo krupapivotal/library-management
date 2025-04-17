@@ -1,0 +1,36 @@
+.gradle
+build
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Ignore Gradle GUI config
+.settings
+
+# Avoid committing IDE specific files
+.idea/
+*.ipr
+*.iws
+*.iml
+*.classpath
+*.project
+
+# Ignore temporary files created by Spring Tool Suite (STS)
+.springBeans
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore packaged JAR files
+*.jar
+
+# Ignore packaged WAR files
+*.war
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+ HELP.md
+ gradle/
+gradlew
+gradlew.bat
